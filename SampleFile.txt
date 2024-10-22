@@ -1,0 +1,20 @@
+cd C:\Users\n.kaliyamurthy\Documents\
+dir
+mkdir MyGit2
+dir
+history
+ /history
+doskey 
+doskey /history
+cd MyGit2
+dir
+dir /a
+git init
+dir
+dir /a
+cd .git
+dir
+cd
+cd ..
+dir
+doskey /history > C:\Users\n.kaliyamurthy\Documents\MyGit2\SampleFile.txt
